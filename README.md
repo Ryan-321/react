@@ -4,12 +4,12 @@
   I choose this subject because am leaning more towards the front-end and I thought it would be a good opportunity to familiarize myself with React.  In the hopes to include this on my resume.  
 
 # How were you first made aware of it?
-    When we did the mini-lesson that I opted out of for review.  
+  When we did the mini-lesson that I opted out of for review.  
 
 # What problem does it solve?
-    Building large applications with data that changes over time
+  Building large applications with data that changes over time
 
-    JS-heavy apps are typically not SEO friendly, React is more so.  
+  JS-heavy apps are typically not SEO friendly, React is more so.  
 
 # How does it solve the problem (conceptually)?
   Breaks code up into reusable components.  
@@ -49,3 +49,7 @@
   1. What is the Virtual Dom
   2. Describe what the JSXTransformer does.
   3. Why is React good for SEO.  
+
+## Instructions
+
+  I basically followed the tutorial on the http://facebook.github.io/react/index.html, which has all the code.  It has a link to Github where you can fork and clone their code down and then follow the instructions on their website.  
